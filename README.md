@@ -1,6 +1,5 @@
 ## Hello there 👋, my name is Eray Aydın
 
-* 🔭 I’m currently working on C#
 
 * 🌱 I’m currently learning CPP
 
